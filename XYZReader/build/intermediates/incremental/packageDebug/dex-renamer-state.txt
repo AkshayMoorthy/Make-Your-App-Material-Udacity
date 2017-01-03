@@ -1,0 +1,7 @@
+#Tue Jan 03 16:29:08 IST 2017
+base.0=C\:\\Users\\Akshay\\Make-Your-App-Material-Udacity\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64e9c66a48bdc740b2f192fb245f143f33167716
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Akshay\\Make-Your-App-Material-Udacity\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_81ccea52bcfded52df2c8539cf851d66f01ef130\\classes.dex
+base.1=C\:\\Users\\Akshay\\Make-Your-App-Material-Udacity\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_81ccea52bcfded52df2c8539cf851d66f01ef130
+file.0=C\:\\Users\\Akshay\\Make-Your-App-Material-Udacity\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_64e9c66a48bdc740b2f192fb245f143f33167716\\classes.dex

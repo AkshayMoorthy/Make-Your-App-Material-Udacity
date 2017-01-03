@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_8bb14ef432dc710a53b089d03b0cf409f1006d67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_8337f36e151090321a0d9d29bce768c46ea3332a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_e1c11f1c4863cda2f481c27dd84eddc16e6a3357\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.4.0_f00b0a80b8b8c11ba409eab5e1e4a31651b8e921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8c5180ea0b92dd3ba89c62fcd0305d9927b8c755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_6aace9bf12adf47f1503efce24e6d1e8451cccd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.1.0_db0db01c409109a1055a90f4f33ca5a5f8047add\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_457fc0bf77662147d3716f96f74fd24bb16244eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_286769bbb6e920692909fd6b13d23a14a4c0c3a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_26bf4d768b7d49dba439ee7f90eba367d9d6b115\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e424814eba91f097c34d8c69949daf0a7bc3241e">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_81ccea52bcfded52df2c8539cf851d66f01ef130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-23.4.0_478e1c278976fcb8dca04b70b8791bf7c0e9e016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_aa243c265ebda2aaf6d3a1050c9b5f0eda344151\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.1.0_08ffbae9a258dad8d37f7e2a31bee7867c173c61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_9e16a7b9a26db8c1e0538e7eccd4f3a35f9f49d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_b711801a016cda9ff731a777617c4c22cf4c9e88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_b54a40a7a8311f06be81664d7e67085338edd73f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_6eecb771c112bdc1f7c2c362eda44c51c7a5ea64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7c2a8b22cf7e26bb7fa1783952c17a8616ddcbe7">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_64e9c66a48bdc740b2f192fb245f143f33167716\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\Akshay\Make-Your-App-Material-Udacity\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_de99d24cad7c0dabda8099227673d47d9f40a9f4\classes.dex" />
+    </item>
+
+</items>
